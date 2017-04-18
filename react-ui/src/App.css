@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  background-color: #d9d9d9;
+  height: 1080px;
+  width: 100%
+}
+
+.navbar {
+  background-color: #f2f2f2;
+  /*width: 90%;*/
+  margin: auto;
+  /*height: 50px;*/
+  color: black;
+  border-bottom: 2px solid #cccccc;
+  /*overflow: hidden;*/
+}
+ul {
+  /*width: auto;*/
+  /*float: right;*/
+  /*text-align: center;*/
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f2f2f2;
+}
+li {
+  float: right;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 15px;
+  /*width: /25%;*/
+  /*height: auto;*/
+  text-decoration: none;
+  border: 1px solid black;
+}
+.title{
+  font-size: 28px;
+  margin-left: 45%;
+  border: 1px solid black;
+  /*display: block;*/
+  /*padding: 14px;*/
+  /*margin: 3px;
+  padding: 24px;*/
+}
